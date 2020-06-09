@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-dòng số 1
-=======
-dòng số 1
-dòng số 2
-dòng số 3
 dòng số 4
-trung ml
->>>>>>> 8e517237e51806fcc9b3059804e51182ed084736
+dong so 5
+dong so 3 
